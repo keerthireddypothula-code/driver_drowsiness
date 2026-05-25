@@ -13,9 +13,6 @@ A simple Python project that detects driver drowsiness by analyzing eye closure 
 - `main.py` — main detection script
 - `requirements.txt` — Python dependency list
 - `shape_predictor_68_face_landmarks.dat` — dlib facial landmark model
-- `run.ps1` — Windows run script
-- `run.sh` — Linux/macOS run script
-- `cleanup.ps1` — cleanup helper for `.idea` and `.venv`
 - `LICENSE` — MIT license file
 - `.gitignore` — project ignore rules
 
